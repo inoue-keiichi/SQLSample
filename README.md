@@ -12,4 +12,4 @@
 
 # ER 図
 
-![ER Image](./resouces/schema_sample.png)
+![ER Image](resources/schema_sample.png)
